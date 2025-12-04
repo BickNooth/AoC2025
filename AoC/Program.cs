@@ -5,7 +5,15 @@
 #endregion
 
 #region Day2
-using AoC.Day2;
-Parts.Part1();
+//using AoC.Day2;
+//Parts.Part1();
+//Parts.Part2();
+#endregion
+
+#region Day3
+using AoC.Day3;
+//Parts.Part1();
 Parts.Part2();
 #endregion
+
+Console.ReadKey();
